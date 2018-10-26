@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Alfredo
+Build-Jdk: 10.0.2
+Implementation-Title: paolopro
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.Alfredo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springrepoo/
+Created-By: Maven Integration for Eclipse
+
